@@ -29,6 +29,7 @@ truncateString("A-boyman a-tasket A green and yellow basket", 8);
 
 console.log(truncateString("A-boyman a-tasket A green and yellow basket", 8));
 
+
 // Finders Keepers
 
 function findMe(arr, func) {
